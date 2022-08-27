@@ -18,4 +18,4 @@ func main() {
 // 	return "Five of Diamonds"
 // }
 
-// finished at video # 23
+// continue at video #24
