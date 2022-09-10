@@ -14,10 +14,4 @@ func main() {
 	remainingCards.print()
 }
 
-// func newCard() string {
-// 	return "Five of Diamonds"
-// }
-
-// continue at video #24
-
-//new mac entry
+// continue at video #26

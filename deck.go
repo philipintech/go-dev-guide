@@ -23,6 +23,14 @@ func (d deck) print() {
 	}
 }
 
+// use deck as receiver; function is method; ie. deck.print
+
 func deal(d deck, handSize int) (deck, deck) {
 	return d[:handSize], d[handSize:]
+}
+
+// use deck as a parameter; function takes deck as input
+
+func (d deck) toString() string {
+
 }
